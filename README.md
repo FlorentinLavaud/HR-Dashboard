@@ -2,5 +2,4 @@
 Human Ressources dashboard that uses faked data are available at xlsx format. 
 Here is an example of the interactive dashboard:
 <br />
-https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file
-https://towardsdatascience.com/how-to-render-your-tableau-viz-as-a-gif-file-b0a11ed6acf9
+![](https://github.com/FlorentinLavaud/HR-Dashboard/blob/main/pics/GIF.gif "Adaptive Tableau Dashboard")
